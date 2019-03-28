@@ -116,5 +116,5 @@ Psychological Influences on Hunger
             - __results__: women&swimsuit -> only group to inrease in body shame, revulsion, disgust with themselves
 
 - culture -> idealized body images
-    - ___Lever (2003)___: 9 in 10 women would rather have perfect body than mate with perfect body
+    - ___Lever (2003)___ : 9 in 10 women would rather have perfect body than mate with perfect body
         - __only 4 in 10 men say the same ....__
