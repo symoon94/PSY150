@@ -29,6 +29,7 @@
         - concrete: 9-10 yr old 4th graders
         - formal: 11-12
         - (필기 못함)
+[](https://github.com/symoon94/PSY150/blob/master/assets/apr2.jpeg)
 
         - 9-10 year olds
             - all put third eye on forehead, between 2 natural eyes
@@ -81,3 +82,29 @@
     - ~~ 65% of 1 YO
     - active exploration when AF present
     - upset by separations from AF, but warm greeting upon return
+- 2. ___resistant attachment___
+    - ~~ 10% of 1 YO
+    - stay close to AF, little exploration
+    - very distressed by separation
+        - upon return: ambivalence
+- 3. ___avoidant attachment___
+    - ~~ 20 % of 1 YO
+    - little distress upon separation from AF
+
+- 4. ___disorganized/disoriented attachment___
+    - ~~ 5-10% of 1 YO
+    - resistant & avoidant styles combined
+
+# Kohlberg's 3 stage model of moral development
+1. ___preconventional stage:___ morality of self-interest
+    - __steal:__ happier with wife alive, even if going to jail
+    - __don't steal:__ life in jail would be worse than losing wife
+2. ___conventional stage:___ care for others, follow rules because they are rules
+    - __steal:__ "rule" of marriage = do anything for spouse; willingly accept punishment for stealing
+    - __don't steal:__ stealing is against the law; rules & laws
+3. ___postconventional stage:___ broad, abstract ethical principles of right vs. wrong
+    - __steal:__ everyone has right to life no matter what, human life more important than any amount of property
+    - __don't steal:__ scientist has right to fair compensation, others may be equally sick and needing medicine
+
+# Moral feelings
+- ___Haidt (2001, 2002):___ moral feeling comes <u>before</u> moral reasoning
