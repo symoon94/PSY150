@@ -29,7 +29,6 @@
         - concrete: 9-10 yr old 4th graders
         - formal: 11-12
         - (필기 못함)
-[](https://github.com/symoon94/PSY150/blob/master/assets/apr2.jpeg)
 
         - 9-10 year olds
             - all put third eye on forehead, between 2 natural eyes
@@ -42,6 +41,7 @@
             - thinking abstractly, outside the box
         - rationale?
         (pic)
+        ![](https://github.com/symoon94/PSY150/blob/master/assets/apr2.jpeg)
 
         - enjoyment of assignment?
             - 9year olds: silly, uninteresting
@@ -71,7 +71,8 @@
 # origins of attachment: familiarity
 - many species attach to those experienced during critical period
     - e.g. first moving object ducklings see = mother
-        - (pic)
+        -
+        ![](https://github.com/symoon94/PSY150/blob/master/assets/apr2_2.jpeg)
 
 - ___imprinting:___ process by which certain animals form attachments during critical period very early in life
     - Konrad Lorenz (1937):
@@ -108,3 +109,5 @@
 
 # Moral feelings
 - ___Haidt (2001, 2002):___ moral feeling comes <u>before</u> moral reasoning
+    - __emotion:__ instantaneous response
+    - __reasoning:__ convince self & others of what you intuitively feel
