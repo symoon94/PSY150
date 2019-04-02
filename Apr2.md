@@ -111,3 +111,38 @@
 - ___Haidt (2001, 2002):___ moral feeling comes <u>before</u> moral reasoning
     - __emotion:__ instantaneous response
     - __reasoning:__ convince self & others of what you intuitively feel
+
+---
+---
+---
+
+# Personality
+
+- __personality:__ a person's characteristic pattern of thinking, feeling, $ acting
+    - individual differences
+
+    - implies consistency
+        - enduring, stable qualities
+
+## Sigmund Freud (1856-1939)
+- Austrian neurologist
+- early interest in cocaine as treatment for physical, mental ailments
+    - addiction, overdoses, etc.
+- developed interest in nervous disorders
+    - defined by anxieties
+
+## Anna O.
+- treated for "hysteria" by Freud
+    - limb paralysis on right side of body
+    - vision, hearing, & speech issues
+    - loss of consciousness
+- faking symptoms? sympathy from Freud -> first "therapy" sessions
+    - hypnosis: traumatic childhood memory
+- ___Are we anxious about things that we are unaware of?___
+
+## The Unconscious
+- ___unconscious:___ collection of unacceptable thoughts, wishes, desires, feelings, memories
+    - powerful influence over thoughts/behavior?
+- ___psychoanalysis:___ hydraulic theory that attributes thoughts & behavior to unconcsious motives & conflicts
+    - patients' issues: too much "pressure" in conscious?
+    - accessing unconscious -> release pressure
