@@ -66,3 +66,18 @@
 - strong preference for cloth mother for both groups
 - similar importance of body contact for humans
     - stronger attachment to rocking/feeding/patting parents
+
+# origins of attachment: familiarity
+- many species attach to those experienced during critical period
+    - e.g. first moving object ducklings see = mother
+        - (pic)
+
+- ___imprinting:___ process by which certain animals form attachments during critical period very early in life
+    - Konrad Lorenz (1937):
+    ___What if <u>he</u> was the first creature ducklings saw?___
+
+# Attachment styles
+- 1. ___secure attachment___
+    - ~~ 65% of 1 YO
+    - active exploration when AF present
+    - upset by separations from AF, but warm greeting upon return
