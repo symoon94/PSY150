@@ -6,7 +6,7 @@
     - can be biological, cognitive, social, etc.
 
 ## 4 sources of Motivation
-1. instincts: biologically-determined behaciors essential to survival
+1. instincts: biologically-determined behaviors essential to survival
 - earily explanation for human motivation, but...
     - How many instincts are there?
     - How does the "instinct" label promote understanding?
