@@ -39,7 +39,7 @@
     - stimulation -> hunger
     - lesioned -> no interest in food
 
-2. ventromedial hypothalamus hypothalamus suppresses hunger
+2. ventromedial hypothalamus suppresses hunger
     - stimulation -> stop eating
     - lesioned -> continuous eating
 
